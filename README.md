@@ -97,19 +97,27 @@
 
 <p align="justify">
   <a href="https://twitter.com/juliano_ls2" target="_blank">
-    <img src="https://img.shields.io/badge/-Juliano-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
   <a href="https://linkedin.com/in/juliano-leonardo-soares" target="_blank">
-    <img src="https://img.shields.io/badge/-Juliano-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/juliano_ls" target="_blank">
-  <img src="https://img.shields.io/badge/-Juliano-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://youtube.com/UC9yg06diEl3IyPyPOsDa_oQ" target="_blank">
-  <img src="https://img.shields.io/badge/-Juliano-05122A?style=flat&logo=youtube" alt="youtube"/>
+  <a href="https://www.youtube.com/channel/UC9yg06diEl3IyPyPOsDa_oQ" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a>
-  <a href="https://youtube.com/UC9yg06diEl3IyPyPOsDa_oQ" target="_blank">
-  <img src="https://img.shields.io/badge/-Juliano-05122A?style=flat&logo=stackoverflow" alt="stackoverflow"/>
+  <a href="https://www.reddit.com/user/juliano-soares/" target="_blank">
+  <img src="https://img.shields.io/badge/-Reddit-05122A?style=flat&logo=reddit" alt="reddit"/>
+  </a>
+  <a href="https://pt.stackoverflow.com/users/270601/juliano-leonardo-soares" target="_blank">
+  <img src="https://img.shields.io/badge/-Stackoverflow-05122A?style=flat&logo=stackoverflow" alt="stackoverflow"/>
+  </a>
+  <a href="https://dev.to/julianosoares" target="_blank">
+  <img src="https://img.shields.io/badge/-Dev.to-05122A?style=flat&logo=dev.to" alt="Dev.to"/>
+  </a>
+  <a href="https://www.twitch.tv/juliano_ls" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitch-05122A?style=flat&logo=twitch" alt="Twitch"/>
   </a>
 </p>
-
