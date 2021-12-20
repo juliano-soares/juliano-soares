@@ -11,7 +11,7 @@
 💬 &nbsp; Feel free to contact me for advice and tips or just an interesting discussion. \
 ✉️ &nbsp; You can send an email to julianoleonardosoares@hotmail.com! I will try to answer as soon as I can. \
 
-<details><summary>👨🏼‍🎓 Education</summary>
+<details><summary> 🎓 Education</summary>
 <p>
 
 - University graduate:
