@@ -56,9 +56,9 @@
 </details>
 
 ---
+<img src="./.github/img/fight.gif" width="180px" align="right">
 
 ## <img src="./.github/img/tech.gif" width="25" />  Tecnologias
-<img src="./.github/img/fight.gif" width="240px" align="right">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
@@ -83,6 +83,7 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
+---
 ## <img src="./.github/img/engine.gif" width="35" /> &nbsp;GitHub Analytics
 
 <p align="justify">
@@ -92,6 +93,7 @@
 </a>
 </p>
 
+---
 ## <img src="./.github/img/nave.gif" width="40" /> &nbsp;Connect with Me
 
 <p align="justify">
