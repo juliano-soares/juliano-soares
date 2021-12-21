@@ -37,14 +37,14 @@
 <p>
 
 - 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**\
-📆 2020 - moment\
-📍 **SISASTROS** - Santa Maria/RS, Brazil\
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
+  - 📆 2020 - moment\
+  - 📍 **SISASTROS** - Santa Maria/RS, Brazil\
+ ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+ ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
 - 👨‍💻 **Software development intern**\
-📆 2019 - 2020\
-📍 **Meta** - Recanto do Maestro/RS, Brazil\
+  - 📆 2019 - 2020\
+  - 📍 **Meta** - Recanto do Maestro/RS, Brazil\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;
@@ -54,6 +54,8 @@
 
 </p>
 </details>
+
+---
 
 ## <img src="./.github/img/tech.gif" width="25" />  Tecnologias
 <img src="./.github/img/fight.gif" width="240px" align="right">
