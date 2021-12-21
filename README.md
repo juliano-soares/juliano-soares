@@ -1,8 +1,7 @@
 # <img src="./.github/img/hi.gif" width="45" /> Hi, my name is **Juliano**!
 
 <p align="center"><img src="./.github/img/capa.gif"/></p>
-
---- 
+ 
 
 ## About Me
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks. \
@@ -56,7 +55,6 @@
 </p>
 </details>
 
----
 ## <img src="./.github/img/tech.gif" width="25" />  Tecnologias
 <img src="./.github/img/fight.gif" width="240px" align="right">
 
@@ -83,7 +81,6 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
----
 ## <img src="./.github/img/engine.gif" width="35" /> &nbsp;GitHub Analytics
 
 <p align="justify">
@@ -93,7 +90,6 @@
 </a>
 </p>
 
----
 ## <img src="./.github/img/nave.gif" width="40" /> &nbsp;Connect with Me
 
 <p align="justify">
