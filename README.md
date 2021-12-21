@@ -1,7 +1,8 @@
+# <img src="./.github/img/hi.gif" width="45" /> Hi, my name is **Juliano**!
+
 <p align="center"><img src="./.github/img/capa.gif"/></p>
 
----
-# <img src="./.github/img/hi.gif" width="45" /> Hi, my name is **Juliano**! 
+--- 
 
 ## About Me
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks. \
