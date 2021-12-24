@@ -9,7 +9,7 @@
 🌱 &nbsp; I'm learning more about artificial intelligence, systems design and cloud architecture. \
 ✍️ &nbsp; In my free time I study new technologies and share news on my social networks / I also do some side activities like weight training and nature walks \
 💬 &nbsp; Feel free to contact me for advice and tips or just an interesting discussion. \
-✉️ &nbsp; You can send an email to julianoleonardosoares@hotmail.com! I will try to answer as soon as I can. \
+✉️ &nbsp; You can send an email to julianoleonardosoares@hotmail.com! I will try to answer as soon as I can. 
 
 <details><summary> 🎓 Education</summary>
 <p>
@@ -36,14 +36,14 @@
 <details><summary>🖥️ Experiences</summary>
 <p>
 
-- 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**\
-  - 📆 2020 - moment\
+- 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**
+  - 📆 2020 - moment
   - 📍 **SISASTROS** - Santa Maria/RS, Brazil\
  ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
  ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
-- 👨‍💻 **Software development intern**\
-  - 📆 2019 - 2020\
+- 👨‍💻 **Software development intern**
+  - 📆 2019 - 2020
   - 📍 **Meta** - Recanto do Maestro/RS, Brazil\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
