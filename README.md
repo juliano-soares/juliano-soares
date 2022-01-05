@@ -9,7 +9,7 @@
 🌱 &nbsp; I'm learning more about artificial intelligence, systems design and cloud architecture. \
 ✍️ &nbsp; In my free time I study new technologies and share news on my social networks / I also do some side activities like weight training and nature walks \
 💬 &nbsp; Feel free to contact me for advice and tips or just an interesting discussion. \
-✉️ &nbsp; You can send an email to julianoleonardosoares@hotmail.com! I will try to answer as soon as I can. 
+✉️ &nbsp; You can send an email! I will try to answer as soon as I can. 
 
 <details><summary> 🎓 Education</summary>
 <p>
