@@ -1,4 +1,4 @@
-# [**<**](../../README.md) Certificados
+# [**<**](https://github.com/juliano-soares) Certificados
 
 ## Alura
 - Formação: Jogos com Unity
