@@ -28,7 +28,7 @@
 <details><summary>📃 Courses and Certificates</summary>
 <p>
 
-- [My courses and Certificates ](https://julianoleonardosoares.com/certificates)
+- [My courses and Certificates ](./.github/certificados/README.md)
 
 </p>
 </details>
