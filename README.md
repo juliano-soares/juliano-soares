@@ -1,4 +1,4 @@
-# <img src="./.github/img/hi.gif" width="45" /> Hi, my name is **Juliano**! <p></p> <img src="./.github/img/EUA.gif" width="20" height="15"/> <img src="./.github/img/Brasil.gif" width="20" height="15"/>
+# <img src="./.github/img/hi.gif" width="45" /> Hi, my name is **Juliano**! 
 
 <p align="center"><img src="./.github/img/capa.gif"/></p>
 
