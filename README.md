@@ -25,11 +25,12 @@
 </p>
 </details>
 
-<details><summary>📃 Courses and Certificates</summary>
+<details><summary>📃 Courses, Certificates and publications</summary>
 <p>
 
 - [My courses and Certificates ](./.github/certificados/README.md)
-
+- [My publications and article](./.github/artigos/README.md)
+  
 </p>
 </details>
 
