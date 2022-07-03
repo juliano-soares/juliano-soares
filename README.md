@@ -123,3 +123,18 @@
     <img src="https://img.shields.io/badge/-Twitch-05122A?style=flat&logo=twitch" alt="Twitch"/>
   </a>
 </p>
+
+---
+## 🎓 &nbsp;Follow my studies
+
+<p align="justify">
+   <a href="https://docs.microsoft.com/pt-br/users/julianoleonardosoares/" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft-05122A?style=flat&logo=microsoft" alt="Microsoft"/>  
+   </a>
+   <a href="https://developers.google.com/profile/u/julianosoares" target="_blank">
+    <img src="https://img.shields.io/badge/-Google-05122A?style=flat&logo=google" alt="Google"/>  
+   </a>
+   <a href="https://www.kaggle.com/julianosoares" target="_blank">
+    <img src="https://img.shields.io/badge/-kaggle-05122A?style=flat&logo=kaggle" alt="kaggle"/>  
+   </a>
+</p>
