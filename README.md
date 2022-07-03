@@ -40,8 +40,8 @@
 - 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**
   - 📆 2020 - moment
   - 📍 **SISASTROS** - Santa Maria/RS, Brazil\
- ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
- ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
 - 👨‍💻 **Software development intern**
   - 📆 2019 - 2020
@@ -105,21 +105,21 @@
     <img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/juliano_ls" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://www.youtube.com/channel/UC9yg06diEl3IyPyPOsDa_oQ" target="_blank">
-  <img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
+    <img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a>
   <a href="https://www.reddit.com/user/juliano-soares/" target="_blank">
-  <img src="https://img.shields.io/badge/-Reddit-05122A?style=flat&logo=reddit" alt="reddit"/>
+    <img src="https://img.shields.io/badge/-Reddit-05122A?style=flat&logo=reddit" alt="reddit"/>
   </a>
   <a href="https://pt.stackoverflow.com/users/270601/juliano-leonardo-soares" target="_blank">
-  <img src="https://img.shields.io/badge/-Stackoverflow-05122A?style=flat&logo=stackoverflow" alt="stackoverflow"/>
+    <img src="https://img.shields.io/badge/-Stackoverflow-05122A?style=flat&logo=stackoverflow" alt="stackoverflow"/>
   </a>
   <a href="https://dev.to/julianosoares" target="_blank">
-  <img src="https://img.shields.io/badge/-Dev.to-05122A?style=flat&logo=dev.to" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/-Dev.to-05122A?style=flat&logo=dev.to" alt="Dev.to"/>
   </a>
-  <a href="https://www.twitch.tv/juliano_ls" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitch-05122A?style=flat&logo=twitch" alt="Twitch"/>
+  <a href="https://www.twitch.tv/juliano_soares" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitch-05122A?style=flat&logo=twitch" alt="Twitch"/>
   </a>
 </p>
