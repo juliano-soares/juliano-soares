@@ -36,9 +36,17 @@
 
 <details><summary>🖥️ Experiences</summary>
 <p>
+- 👨‍💻 **Software development fullstack**
+  - 📆 2019 - moment
+  - 📍 **Irriga Global** - Santa Maria/RS, Brazil\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 - 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**
-  - 📆 2020 - moment
+  - 📆 2020 - 2022
   - 📍 **SISASTROS** - Santa Maria/RS, Brazil\
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
