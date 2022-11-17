@@ -38,7 +38,7 @@
 <p>
 
 - 👨‍💻 **Software development fullstack**
-  - 📆 2019 - moment
+  - 📆 2022 - moment
   - 📍 **Irriga Global** - Santa Maria/RS, Brazil\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
