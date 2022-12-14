@@ -49,13 +49,13 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 - 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**
-  - 📆 2020 - 2022
+  - 📆 2020 - 2022: 2 years 2 months
   - 📍 **SISASTROS** - Santa Maria/RS, Brazil\
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
 - 👨‍💻 **Software development intern**
-  - 📆 2019 - 2020
+  - 📆 2019 - 2020: 10 months
   - 📍 **Meta** - Recanto do Maestro/RS, Brazil\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
