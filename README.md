@@ -4,7 +4,7 @@
 
 
 ## About Me
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks. \
+💡  &nbsp; I like to explore new technologies and develop software solutions and quick hacks. \
 🎓 &nbsp; I am currently studying Computer Science at the Federal University of Santa Maria. \
 🌱 &nbsp; I'm learning more about artificial intelligence, systems design and cloud architecture. \
 ✍️ &nbsp; In my free time I study new technologies and share news on my social networks / I also do some side activities like weight training and nature walks \
@@ -14,8 +14,9 @@
 <details><summary> 🎓 Education</summary>
 <p>
 
-- University graduate:
-   - Bachelor's Degree in Computer Science from the Federal University of Santa Maria.
+- Education:
+   - Bachelor's degree in Computer Science from the Federal University of Santa Maria.
+   - Currently studying a Master's Degree in Computer Science at Unicamp
 
 - Languages:
    - Basic English.
@@ -38,7 +39,7 @@
 <p>
 
 - 👨‍💻 **Software development fullstack**
-  - 📆 2022 - moment
+  - 📆 2022 - 2023: 5 months
   - 📍 **Irriga Global** - Santa Maria/RS, Brazil\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
