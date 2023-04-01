@@ -4,7 +4,7 @@
 
 
 ## About Me
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks. \
+💡  &nbsp; I like to explore new technologies and develop software solutions and quick hacks. \
 🎓 &nbsp; I am currently studying Computer Science at the Federal University of Santa Maria. \
 🌱 &nbsp; I'm learning more about artificial intelligence, systems design and cloud architecture. \
 ✍️ &nbsp; In my free time I study new technologies and share news on my social networks / I also do some side activities like weight training and nature walks \
@@ -14,8 +14,9 @@
 <details><summary> 🎓 Education</summary>
 <p>
 
-- University graduate:
-   - Bachelor's Degree in Computer Science from the Federal University of Santa Maria.
+- Education:
+   - Bachelor's degree in Computer Science from the Federal University of Santa Maria.
+   - Currently studying a Master's Degree in Computer Science at Unicamp
 
 - Languages:
    - Basic English.
@@ -37,14 +38,25 @@
 <details><summary>🖥️ Experiences</summary>
 <p>
 
+- 👨‍💻 **Software development fullstack**
+  - 📆 2022 - 2023: 5 months
+  - 📍 **Irriga Global** - Santa Maria/RS, Brazil\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![ExpreesJS](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=expressdotjs&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+
 - 👨‍💻 **Software development intern and researcher in the field of artificial intelligence**
-  - 📆 2020 - moment
+  - 📆 2020 - 2022: 2 years 2 months
   - 📍 **SISASTROS** - Santa Maria/RS, Brazil\
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=239120)&nbsp;
 
 - 👨‍💻 **Software development intern**
-  - 📆 2019 - 2020
+  - 📆 2019 - 2020: 10 months
   - 📍 **Meta** - Recanto do Maestro/RS, Brazil\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
